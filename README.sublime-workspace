@@ -1,0 +1,231 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jeffrey/cs61a/projects/ants/ants.py",
+		"/C/Users/Jeffrey/ee16a/homework/hw5/alt_explanation",
+		"/C/Users/Jeffrey/cs61a/homework/hw06/hw06.py",
+		"/C/Users/Jeffrey/cs61a/lab/lab06/data.py",
+		"/C/Users/Jeffrey/cs61a/lab/lab06/classes.py",
+		"/C/Users/Jeffrey/cs61a/lab/lab05/lab05.py",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw3/app/views/teachers/show.html.erb",
+		"/C/Users/Jeffrey/railsdecal/fa17-lab1/app/controllers/pages_controller.rb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw3/app/views/students/show.html.erb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw3/app/views/students/new.html.erb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw3/app/controllers/students_controller.rb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw3/config/routes.rb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw3/app/controllers/teachers_controller.rb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw3/app/views/teachers/new.html.erb",
+		"/C/Users/Jeffrey/railsdecal/fa17-lab1/config/routes.rb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw3/ANSWERS.md",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw3/README.md",
+		"/C/Users/Jeffrey/railsdecal/fa17-lab1/app/controllers/concerns/Post.rb",
+		"/C/Users/Jeffrey/railsdecal/fa17-lab1/app/controllers/posts_controller.rb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw2/config/routes.rb",
+		"/C/Users/Jeffrey/railsdecal/fa17-lab1/config/initializers/assets.rb",
+		"/C/Users/Jeffrey/railsdecal/fa17-lab1/app/assets/javascripts/application.js",
+		"/C/Users/Jeffrey/railsdecal/fa17-lab1/app/views/layouts/application.html.erb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw3/config/initializers/assets.rb",
+		"/C/Users/Jeffrey/railsdecal/fa17-lab1/app/views/layouts/mailer.html.erb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw2/app/views/pages/home.html.erb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw2/app/controllers/concerns/foobar.rb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw2/app/views/pages/me.html.erb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw2/app/controllers/concerns/person.rb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw2/app/controllers/concerns/stringify.rb",
+		"/C/Users/Jeffrey/cs61a/lab/lab05/lab05_extra.py",
+		"/C/Users/Jeffrey/cs61a/lab/lab04/lab04.py",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw2/app/views/layouts/application.html.erb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw2/app/controllers/pages_controller.rb",
+		"/C/Users/Jeffrey/ee16a/lab/sid.py",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw1/foobar.rb",
+		"/C/Users/Jeffrey/cs61a/lab/lab04/lab04_extra.py",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw1/hw1.rb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw2/app/views/pages/person.html.erb",
+		"/C/Users/Jeffrey/railsdecal/fa17-hw2/README.md",
+		"/C/Users/Jeffrey/cs61a/homework/hw05/hw05.py",
+		"/C/Users/Jeffrey/cs61a/projects/maps/utils.py",
+		"/C/Users/Jeffrey/cs61a/projects/maps/abstractions.py",
+		"/C/Users/Jeffrey/cs61a/projects/maps/recommend.py",
+		"/C/Users/Jeffrey/cs61a/homework/hw04/hw04.py",
+		"/C/Users/Jeffrey/cs61a/projects/hog/hog_contest/hog_contest.py",
+		"/C/Users/Jeffrey/cs61a/projects/hog/hog.py",
+		"/C/Users/Jeffrey/cs61a/homework/hw03/hw03.py",
+		"/C/Users/Jeffrey/cs61a/lab/lab03/lab03.py",
+		"/C/Users/Jeffrey/cs61a/lab/lab03/lab03_extra.py",
+		"/C/Users/Jeffrey/Downloads/ee16a_fa17_template (1).tex",
+		"/C/Users/Jeffrey/cs61a/lab/lab02/lab02_extra.py",
+		"/C/Users/Jeffrey/cs61a/lab/lab02/lab02.py",
+		"/C/Users/Jeffrey/cs61a/homework/hw03/construct_check.py",
+		"/C/Users/Jeffrey/AppData/Local/Temp/Temp1_lab02.zip/lab02/lab02.py",
+		"/C/Users/Jeffrey/cs61a/lab/lab02.py",
+		"/C/Users/Jeffrey/cs61a/homework/hw01/hw01.py",
+		"/C/Users/Jeffrey/cs61a/homework/hw02/hw02.py",
+		"/C/Users/Jeffrey/cs61a/lab/lab01/lab01_extra.py",
+		"/C/Users/Jeffrey/cs61a/projects/hog/ucb.py",
+		"/C/Users/Jeffrey/cs61a/projects/hog/dice.py",
+		"/C/Users/Jeffrey/cs61a/lab/lab01/lab01.py",
+		"/C/Users/Jeffrey/cs61a/lab/lab01/guessing_game_graph.py",
+		"/C/Users/Jeffrey/ee16a/ee16a_ipython_test/ee16a_ipython_test.ipynb",
+		"/C/Users/Jeffrey/Downloads/ee16a_fa17_template.tex",
+		"/C/Users/Jeffrey/Documents/CountWords.java",
+		"/C/Users/Jeffrey/Documents/Bedford.java"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 55.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
